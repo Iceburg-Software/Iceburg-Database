@@ -1,0 +1,34 @@
+{
+  "name": "iceburg-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iceburg-Software/Iceburg-Database.git"
+  },
+  "keywords": [
+    "database",
+    "structure",
+    "data",
+    "json",
+    "fs",
+    "compression",
+    "storage",
+    "unzip",
+    "zlib",
+    "deflate",
+    "iceburg",
+    "backend",
+    "server"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iceburg-Software/Iceburg-Database/issues"
+  },
+  "homepage": "https://github.com/Iceburg-Software/Iceburg-Database#readme"
+}

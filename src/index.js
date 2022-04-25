@@ -90,10 +90,7 @@ export class Iceburg {
 
 export class Database {
     constructor() {
-        this.database = JSON.parse(fs.readFileSync(path.join(__dirname, "./database.json"), "utf8"));
-    }
-    save() {
-        fs.writeFileSync(path.join(__dirname, "./database.json"), JSON.stringify(this.database), "utf8");
+        this.database = [];
     }
 
     getAll() {
